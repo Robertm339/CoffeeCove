@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Hot Coffee",
+        "items": [
+            {
+                "name": "Classic Brew",
+                "price": 3,
+                "ingredients": ["Medium Roast Coffee Beans", "Hot Water"],
+                "description": "Our signature classic coffee blend.",
+                "calorie": 5
+            },
+            {
+                "name": "Mocha",
+                "price": 4,
+                "ingredients": ["Espresso", "Steamed Milk", "Chocolate Syrup"],
+                "description": "Rich espresso combined with steamed milk and chocolate.",
+                "calorie": 250
+            },
+            {
+                "name": "Caramel Macchiato",
+                "price": 4,
+                "ingredients": ["Espresso", "Vanilla Syrup", "Caramel Drizzle", "Steamed Milk"],
+                "description": "Espresso with vanilla syrup, caramel drizzle, and steamed milk.",
+                "calorie": 320
+            }
+        ]
+    },
+    {
+        "name": "Iced Coffee",
+        "items": [
+            {
+                "name": "Iced Americano",
+                "price": 3,
+                "ingredients": ["Espresso", "Cold Water", "Ice"],
+                "description": "Chilled espresso with cold water and ice.",
+                "calorie": 10
+            },
+            {
+                "name": "Iced Latte",
+                "price": 5,
+                "ingredients": ["Espresso", "Cold Milk", "Ice"],
+                "description": "Chilled espresso and milk over ice.",
+                "calorie": 180
+            },
+            {
+                "name": "Iced Mocha",
+                "price": 5,
+                "ingredients": ["Espresso", "Cold Milk", "Chocolate Syrup", "Whipped Cream"],
+                "description": "Chilled espresso with chocolate and milk, topped with whipped cream.",
+                "calorie": 280
+            }
+        ]
+    },
+    {
+        "name": "Hot Tea",
+        "items": [
+            {
+                "name": "Chai Tea",
+                "price": 3,
+                "ingredients": ["Black Tea Leaves", "Spices", "Steamed Milk"],
+                "description": "Spiced black tea with steamed milk.",
+                "calorie": 40
+            },
+            {
+                "name": "Earl Grey",
+                "price": 3,
+                "ingredients": ["Black Tea Leaves", "Bergamot Essence"],
+                "description": "Classic black tea with a hint of citrusy bergamot.",
+                "calorie": 5
+            },
+            {
+                "name": "Hibiscus Herbal Tea",
+                "price": 3,
+                "ingredients": ["Hibiscus Flowers", "Fruit Pieces", "Hot Water"],
+                "description": "Bright and refreshing herbal tea with hibiscus and fruit.",
+                "calorie": 10
+            }
+        ]
+    },
+    {
+        "name": "Iced Tea",
+        "items": [
+            {
+                "name": "Green Iced Tea",
+                "price": 3,
+                "ingredients": ["Green Tea Leaves", "Cold Water", "Ice"],
+                "description": "Refreshing chilled green tea.",
+                "calorie": 5
+            },
+            {
+                "name": "Fruit Infusion",
+                "price": 4,
+                "ingredients": ["Fruit Tea Blend", "Cold Water", "Ice"],
+                "description": "Fruity and refreshing iced tea infusion.",
+                "calorie": 10
+            },
+            {
+                "name": "Mint Lemonade Iced Tea",
+                "price": 4,
+                "ingredients": ["Black Tea Leaves", "Mint Leaves", "Lemonade", "Ice"],
+                "description": "Iced tea infused with mint and lemonade.",
+                "calorie": 15
+            }
+        ]
+    },
+    {
+        "name": "Hot Breakfast",
+        "items": [
+            {
+                "name": "Egg and Cheese Sandwich",
+                "price": 6,
+                "ingredients": ["Fried Egg", "Cheddar Cheese", "English Muffin"],
+                "description": "Warm sandwich with eggs and melted cheese.",
+                "calorie": 350
+            },
+            {
+                "name": "Breakfast Burrito",
+                "price": 7,
+                "ingredients": ["Scrambled Eggs", "Sausage", "Bell Peppers", "Flour Tortilla"],
+                "description": "Hearty burrito filled with breakfast goodness.",
+                "calorie": 480
+            },
+            {
+                "name": "Avocado Toast",
+                "price": 5,
+                "ingredients": ["Smashed Avocado", "Multigrain Toast", "Sliced Tomato", "Red Onion"],
+                "description": "Healthy avocado spread on toasted multigrain bread.",
+                "calorie": 220
+            }
+        ]
+    },
+    {
+        "name": "Bakery",
+        "items": [
+            {
+                "name": "Croissant",
+                "price": 3,
+                "ingredients": ["Flaky Pastry Dough"],
+                "description": "Classic buttery and flaky croissant.",
+                "calorie": 180
+            },
+            {
+                "name": "Blueberry Muffin",
+                "price": 2,
+                "ingredients": ["Muffin Batter", "Fresh Blueberries"],
+                "description": "Moist muffin bursting with fresh blueberries.",
+                "calorie": 220
+            },
+            {
+                "name": "Cinnamon Roll",
+                "price": 4,
+                "ingredients": ["Sweet Dough", "Cinnamon Sugar", "Cream Cheese Frosting"],
+                "description": "Warm and gooey cinnamon roll topped with cream cheese frosting.",
+                "calorie": 350
+            }
+        ]
+    },
+    {
+        "name": "Sandwiches",
+        "items": [
+            {
+                "name": "Turkey Club",
+                "price": 8,
+                "ingredients": ["Roasted Turkey", "Crispy Bacon", "Lettuce", "Tomato", "Mayonnaise", "Toasted Bread"],
+                "description": "Classic turkey club sandwich with crispy bacon.",
+                "calorie": 480
+            },
+            {
+                "name": "Caprese Panini",
+                "price": 7,
+                "ingredients": ["Tomato", "Fresh Mozzarella", "Basil Pesto", "Ciabatta"],
+                "description": "Grilled panini with tomato, mozzarella, and basil pesto.",
+                "calorie": 320
+            },
+            {
+                "name": "Roast Beef Sub",
+                "price": 9,
+                "ingredients": ["Sliced Roast Beef", "Provolone Cheese", "Lettuce", "Red Onion", "Peppers", "Sub Roll"],
+                "description": "Savory roast beef sub with melted cheese and veggies.",
+                "calorie": 550
+            }
+        ]
+    },
+    {
+        "name": "Desserts",
+        "items": [
+            {
+                "name": "Chocolate Brownie",
+                "price": 3,
+                "ingredients": ["Rich Chocolate", "Walnuts (Optional)"],
+                "description": "Decadent chocolate brownie with or without walnuts.",
+                "calorie": 300
+            },
+            {
+                "name": "Cheesecake Slice",
+                "price": 4,
+                "ingredients": ["Cream Cheese", "Graham Cracker Crust", "Fruit Topping"],
+                "description": "Creamy cheesecake slice topped with fruit.",
+                "calorie": 400
+            },
+            {
+                "name": "Triple Berry Parfait",
+                "price": 5,
+                "ingredients": ["Mixed Berries", "Greek Yogurt", "Granola"],
+                "description": "Layered parfait with a mix of berries, yogurt, and granola.",
+                "calorie": 250
+            }
+        ]
+    }
+]
